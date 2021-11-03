@@ -1,4 +1,4 @@
-### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is Jikku<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hello There, This is Jikku<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/jikkubot) [![telegram badge](https://img.shields.io/badge/JIKKUBARCA-30302f?style=flat&logo=telegram)](https://telegram.dog/jikkubarca)  [![Web](https://img.shields.io/badge/GDrive..MirrorSite@-MirrorAll.tk-RED.svg)](https://Mirrorall.tk/) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jikkubot/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-FilmClubGroup-RED.svg)](https://telegram.dog/FilmClubGroup)
 
