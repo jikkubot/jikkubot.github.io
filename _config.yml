@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Jikku's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: JikkuBot
+url: https://jikkubot.github.io/
+description: The complete repos of JikkuBot
+theme: jekyll-theme-cayman
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+buttons:
+      btn1_url: https://github.com/Jikkubot
+      btn1_title: Main Repository
+      btn2_url: https://github.com/jikkubot?tab=repositories
+      btn2_title: All Repository's
+      btn3_url: https://t.me/FilmClubChannel
+      btn3_title: Updates Channel
+      btn4_url: https://t.me/FilmClubGroup
+      btn4_title: Support Group
