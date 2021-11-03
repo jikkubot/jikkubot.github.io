@@ -1,0 +1,65 @@
+.alone-css, .alone-css:hover, .navbar a {
+    color: white;
+}
+
+.alone-css, .alone-css:hover {
+    text-decoration: none;
+}
+
+.alone-right-footer {
+    float: right;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    background-color: #175da3;
+}
+
+.content {
+    padding: 16px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 80px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.sbtn {
+    float: right;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 1s, background-color 1s, border-color 1s;
+}
+
+.sbtn:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+}
